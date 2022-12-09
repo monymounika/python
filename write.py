@@ -1,0 +1,5 @@
+data = open("data.txt","w")
+data.write("hy ")
+data.write("i am listening ")
+data.write("i am practicing ")
+data.close()
